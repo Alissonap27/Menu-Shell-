@@ -1,0 +1,8 @@
+     1	ADICAO
+     2	BACKUP
+     3	CHAVE
+     4	LISTA
+     5	LOGIN
+     6	MONITORAMENTO
+     7	REMOCAO
+     8	USUARIO

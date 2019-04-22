@@ -1,0 +1,8 @@
+Monitoramento das portas (52) em 01/12/2015 as 19:35:05
+Monitoramento do Ip (8.8.8.8) em 01/12/2015 as 19:35:41
+Monitoramento das portas (52) em 01/12/2015 as 19:36:02
+Monitoramento das portas (85) em 01/12/2015 as 19:37:25
+Monitoramento do Ip (7.7.7) em 01/12/2015 as 19:43:58
+Utilizado o serviço (Rede) do ip (10.30.2.164) em 01/12/2015 as 19:48:59
+Utilizado o serviço (Rede) do ip (10.30.2.164) em 01/12/2015 as 20:05:59
+Utilizado o serviço () do ip (10.30.2.164) em 01/12/2015 as 20:32:50

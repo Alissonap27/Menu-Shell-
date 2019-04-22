@@ -1,0 +1,7 @@
+Escolha Os Minutos para Agendamento
+Escolha As Horas
+Escolha Os Dia Do Mes
+Escolha Os Mes
+Escolha Os Dias da Semana 
+
+

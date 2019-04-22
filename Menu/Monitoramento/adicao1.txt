@@ -1,0 +1,8 @@
+#!/bin/bash
+hos=`hostname -I`
+USER=$(hostname)
+DATA=`date +%d/%m/%Y`
+data=`date +%H:%M:%S`
+
+akinome >> akinome_$data.txt
+

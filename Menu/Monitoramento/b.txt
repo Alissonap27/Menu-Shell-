@@ -1,0 +1,5 @@
+     1	backups
+     2	ips
+     3	memoria
+     4	portas
+     5	processo

@@ -1,0 +1,32 @@
+#!/bin/bash
+clear
+#INicio
+dialog --msgbox "Bem Vindo Ao Programa akinome" 0 0
+
+#Laço
+menu=1
+while test ${#menu} -gt 0
+do
+
+#Menu
+menu=$(dialog --stdout --title 'akinome' --menu " ESCOLHA UMA OPCAO " 0 0 0 \
+1 ' ' \
+2 ' ')
+
+#Saida
+if [ "${#menu}" -eq "0" ]
+then
+#Mensagem de Saida
+dialog --msgbox 'Saindo do Programa akinome' 0 0
+clear
+exit 0
+fi
+
+#Opcoes do Menu
+case $menu in
+1)dialog --msgbox 'Um' 0 0
+;;
+2)dialog --msgbox 'Dois' 0 0
+esac
+done
+
